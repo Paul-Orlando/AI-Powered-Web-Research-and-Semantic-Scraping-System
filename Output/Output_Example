@@ -1,1 +1,22 @@
+## Example Research Output
 
+### Prompt
+
+```text
+Provide research on the website's material on prompting guides
+```
+
+### Output
+
+- Start simple and iteratively refine prompts
+- Break large tasks into smaller subtasks
+- Use clear instructions such as "Write", "Summarize", and "Classify"
+- Provide strong contextual information
+- Use separators like ### to structure prompts
+- Continuously experiment and optimize prompts
+- Apply advanced prompt engineering techniques for better reliability
+
+The system successfully scraped and analyzed content from:
+
+https://www.promptingguide.ai/
+```
